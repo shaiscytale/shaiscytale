@@ -1,10 +1,15 @@
 # Hello, I'm Math - _shaiscytale_ - Leroy ! 👋
 
 ## Pretty passionnate about learning and writing stuff, many of my friends would say that I'm a :
-- very enthusiastic code person
+- very enthusiastic code person (can talk for hours about patterns... I lost a GF for this)
 - bookworm ( Herbert, Murakami and many others )
 - constructed languages maniac ( did you hear about [Lojban](https://en.wikipedia.org/wiki/Lojban) or [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona) ? )
 
+
+### Currently I'm working on :
+- my frontend skills (mostly Reactjs)
+- learning machine learning bases
+- a personal constructed language
 
 ### My favourite tech are :
 
@@ -23,7 +28,7 @@
 
 <br />
 
-You can [mail me](mailto:leroy.mat.mar@gmail.com "Join me on leroy.mat.mar@gmail.com !") or find me on [LinkedIn](https://www.linkedin.com/in/math-leroy-scytale "Go to Math Leroy LinkedIn profile !") too !
+You can mail me [leroy.mat.mar@gmail.com](mailto:leroy.mat.mar@gmail.com "Send me a mail !") and find me on [LinkedIn](https://www.linkedin.com/in/math-leroy-scytale "Go to Math Leroy LinkedIn profile !") too !
 <!--
 **shaiscytale/shaiscytale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
