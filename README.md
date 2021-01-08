@@ -23,7 +23,7 @@
 
 <br />
 
-You can [mail me](mailto:leroy.mat.mar@gmail.com) or find me on [LinkedIn](www.linkedin.com/in/math-leroy-scytale) too !
+You can [mail me](mailto:leroy.mat.mar@gmail.com "Join me on leroy.mat.mar@gmail.com !") or find me on [LinkedIn](https://www.linkedin.com/in/math-leroy-scytale "Go to Math Leroy LinkedIn profile !") too !
 <!--
 **shaiscytale/shaiscytale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
