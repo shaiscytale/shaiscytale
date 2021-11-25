@@ -32,8 +32,6 @@
 
 <br />
 
-[<img src="https://spotify-github-readme.Scytale.vercel.app/api/spotify" width="350" />](https://open.spotify.com/user/Scytale)
-
 ![ShaiScytale's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaiscytale&show_icons=true&theme=synthwave)
 
 <br />
