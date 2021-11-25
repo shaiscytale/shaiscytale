@@ -8,14 +8,14 @@
 
 ### Currently I'm working on :
 - my frontend skills (worked for a while on Reactjs, now more on the Razor side of the force)
-- learning machine learning bases
+- improve my machine learning knowledge
 - living organisms evolution mechanisms
 - a personal constructed language
 
 ### My favourite tech'n'tools are :
 
 <div style="display: block">
-  <img alt="C#" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png" style="display: inline-block" />
+  <img alt="C#" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/131px-C_Sharp_wordmark.svg.png" style="display: inline-block" />
   <img alt="SQL" width="42px" src="https://uploads.toptal.io/blog/category/logo/43/mssql.png" style="display: inline-block" />
   <img alt="Visual Studio" width="42px" src="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Vs-for-mac-logo-caption2.png/revision/latest/scale-to-width-down/180?cb=20170908004432" style="display: inline-block" />
 </div>
@@ -31,6 +31,8 @@
 </div>
 
 <br />
+
+[<img src="https://spotify-github-readme.Scytale.vercel.app/api/spotify" width="350" />](https://open.spotify.com/user/Scytale)
 
 ![ShaiScytale's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaiscytale&show_icons=true&theme=synthwave)
 
