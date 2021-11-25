@@ -1,14 +1,15 @@
 # Hello, I'm Math - _shaiscytale_ - Leroy ! 👋
 
 ## Pretty passionnate about learning and writing stuff, many of my friends would say that I'm a :
-- very enthusiastic code person (can talk for hours about patterns... I lost a GF for this -_-" )
+- very enthusiastic code person (can talk for hours about patterns... )
 - bookworm ( Herbert, Murakami and many others )
 - constructed languages maniac ( did you hear about [Lojban](https://en.wikipedia.org/wiki/Lojban) or [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona) ? )
 
 
 ### Currently I'm working on :
-- my frontend skills (mostly Reactjs)
+- my frontend skills (worked for a while on Reactjs, now more on the Razor side of the force)
 - learning machine learning bases
+- living organisms evolution mechanisms
 - a personal constructed language
 
 ### My favourite tech'n'tools are :
