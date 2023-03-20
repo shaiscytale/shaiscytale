@@ -23,7 +23,7 @@
 <div style="display: block">
   <img alt="React" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="display: inline-block" />
   <img alt="JavaScript" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="display: inline-block" />
-  <img alt="TypeScript" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="display: inline-block" />
+  <img alt="Blazor" width="42px" src="https://yt3.googleusercontent.com/ytc/AL5GRJW_bo3iDYTzIpMPFW5hx0BZxFfFj11SUDCAa1U2=s900-c-k-c0x00ffffff-no-rj" style="display: inline-block" />
 </div>
 <div style="display: block">
   <img alt="Git" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="display: inline-block" />
